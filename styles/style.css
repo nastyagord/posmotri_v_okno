@@ -15,7 +15,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
 }
@@ -111,7 +111,7 @@ ol {
 
 .search-form__textfield {
   appearance: none;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   color: #fff;
   font-size: 18px;
   font-weight: 400;
@@ -148,7 +148,7 @@ ol {
 
 .button {
   color: #fff;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   text-align: center;
   font-size: 18px;
   font-weight: 700;
@@ -212,6 +212,7 @@ ol {
   align-self: baseline;
   gap: 30px;
   height: 298px;
+  min-width: 399px;
   position: relative;
   padding: 0 2px 3px 3px;
 }
